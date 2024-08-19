@@ -1,7 +1,7 @@
 # Git Branch Management Script
 
 ## Overview
-This script, `git_short.sh`, simplifies Git branch management by allowing you to create, switch, and commit to branches using short commands. It's designed for use in environments where typing full Git commands can be cumbersome, such as Replit or other terminal-based IDEs.
+This script, `git_short.sh`, simplifies Git branch management by allowing you to create, switch, and commit to branches using short commands. It's ideal for environments where typing full Git commands can be cumbersome.
 
 ## Features
 - **Create**: Easily create a new branch and push it to the remote repository.
